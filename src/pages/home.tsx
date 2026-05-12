@@ -406,10 +406,10 @@ export default function Home() {
             >
               {[
                 {
-                  name: "Pía",
+                  name: "Pía ♥",
                   role: "Fundadora & Estratega",
                   tagline: "La mente detrás de DIGITALL",
-                  desc: "Mi trabajo es simple: escuchar, organizar ideas y crear soluciones digitales que generen impacto real.",
+                  desc: "Mi trabajo es: escuchar, organizar ideas y crear soluciones digitales que generen impacto real.♥",
                   quote: "No se trata solo de tener ideas, sino de saber qué hacer con ellas. Ese es mi trabajo.",
                   skills: ["Pensamiento estratégico", "Creatividad funcional", "Enfoque en resultados", "Comunicación clara"],
                   photo: "/pia.jpeg",
